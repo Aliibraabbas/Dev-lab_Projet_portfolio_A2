@@ -12,4 +12,4 @@ To do this, I linked my GitHub account to Vercel.
 • Vercel
 
 # Zapier
-I configure a zapier for this repo, which sends a message on the discord server for each commit
+I configure a zapier for this repo, which sends a message on the discord server for each commit.
